@@ -11,4 +11,6 @@ package TP4.punto5;
  */
 public class Main {
     //No entiendo como tendría que funcionar
+    //Probar con una impresora de cada tipo, después agregar más
+    //Pedir por parámetro la cantidad de impresoras de cierto tipo y crear un semaforo por cada una
 }
